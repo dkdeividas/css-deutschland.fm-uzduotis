@@ -46,6 +46,10 @@ footer{
     word-spacing: 15px;
 }
 
+div :hover{
+    transform: scale(.95);
+}
+
 .div1{
     grid-area: item1;
     background-image: url(images/1live.gif);
